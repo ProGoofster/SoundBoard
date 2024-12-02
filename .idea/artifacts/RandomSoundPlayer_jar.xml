@@ -2,7 +2,7 @@
   <artifact type="jar" name="RandomSoundPlayer:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/RandomSoundPlayer_jar</output-path>
     <root id="archive" name="RandomSoundPlayer.jar">
-      <element id="module-output" name="RandomSoundPlayer" />
+      <element id="module-output" name="SoundBoard" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/mp3spi/1.9.17/mp3spi-1.9.17.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/vavi-commons/1.1.13/vavi-commons-1.1.13.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/vavi-commons/vavi-commons/1.1.13/vavi-commons-1.1.13.jar" path-in-jar="/" />
