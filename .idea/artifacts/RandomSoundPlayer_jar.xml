@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomSoundPlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RandomSoundPlayer_jar</output-path>
+    <root id="archive" name="RandomSoundPlayer.jar">
+      <element id="module-output" name="RandomSoundPlayer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/mp3spi/1.9.17/mp3spi-1.9.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/vavi-commons/1.1.13/vavi-commons-1.1.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/vavi-commons/vavi-commons/1.1.13/vavi-commons-1.1.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/klab-commons-cli/1.3.2/klab-commons-cli-1.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/tritonus/tritonus-remaining/0.3.13/tritonus-remaining-0.3.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/vavi-util-codec-sandbox/1.0.2/vavi-util-codec-sandbox-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/vavi-sound/1.0.19/vavi-sound-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/vavi/vavi-sound-nda/1.0.14/vavi-sound-nda-1.0.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/albfernandez/juniversalchardet/2.5.0/juniversalchardet-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/vavi-commons/vavi-instrumentation/1.1.13/vavi-instrumentation-1.1.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/jlayer/1.0.3/jlayer-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/umjammer/tritonus/tritonus-share/0.3.13/tritonus-share-0.3.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/nwaldispuehl/java-lame/v3.98.4/java-lame-v3.98.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.2/commons-cli-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
